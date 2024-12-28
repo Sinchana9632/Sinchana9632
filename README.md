@@ -1,4 +1,4 @@
-##  Hi 👋 I'am Sinchana S K 
+##  Hi 👋 I'm Sinchana S K 
     
 passionate about Data Analyst 💫
 pursuing  computer  science  and engineering student  <br>@ Govt. Engineering college  Hassan
