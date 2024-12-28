@@ -1,5 +1,5 @@
 # 💫 About Me:
- Currently  I'm  computer  science  and engineering <br>@ Govt. Engineering college  Hassan
+ pursuing  computer  science  and engineering student  <br>@ Govt. Engineering college  Hassan
 
 
 ## 🌐 Socials:
