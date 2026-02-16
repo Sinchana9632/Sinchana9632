@@ -1,6 +1,6 @@
 ##  Hi 👋 I'm Sinchana S K 
     
-passionate about Data Analyst 💫
+Passionate about solving complex problems using data and intelligent systems💫
 pursuing  computer  science  and engineering student  <br>@ Govt. Engineering college  Hassan
 
 
