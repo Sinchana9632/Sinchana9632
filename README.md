@@ -1,4 +1,4 @@
-##  Hi 👋 I'm Sinchana S K 
+##  Hi 👋 I'm SINCHANA S K 
     
 Passionate about solving complex problems using data and intelligent systems💫
 pursuing  computer  science  and engineering student  <br>@ Govt. Engineering college  Hassan
