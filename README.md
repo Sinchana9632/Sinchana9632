@@ -29,6 +29,16 @@
 
 ---
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sinchana9632&show_icons=true&theme=tokyonight" alt="Sinchana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sinchana9632&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ## 🛠️ Featured Engineering Projects
 
 ### 1 .[PathWise AI 2.0 ](https://github.com/your-username/project-1)
@@ -53,11 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sinchana9632&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
-<!-- Side-by-Side Main Stats & Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sinchana9632&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sinchana9632&theme=dark&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</p>
 
 <!-- Commit Streak Card -->
 <p align="center">
