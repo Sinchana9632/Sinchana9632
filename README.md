@@ -11,41 +11,61 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** B.E. in Computer Science & Engineering (7th Semester)
+- 🎓 **Education:** B.E. in Computer Science & Engineering 
 - 💻 **Core Focus:** Data Structures & Algorithms, Backend Engineering, & System Design
-- 🎯 **Target Roles:** Software Development Engineer (SDE-1) / Backend Engineer
+- 🎯 **Target Roles:** Software Development Engineer / Backend Engineer
 - ⚡ **Current Focus:** Solving algorithmic problem patterns & building production-ready code
 
 ---
+### 💡 Technical Skills
 
-### 🛠️ Technical Competencies
-
-| Category | Technologies & Core Skills |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | Python, Java, C |
-| **Backend & Frameworks** | Django, .NET, REST APIs, Nginx |
-| **Cloud & Hosting** | AWS, Netlify |
-| **Developer Tools** | Git, GitHub, VS Code |
-| **CS Fundamentals** | Data Structures & Algorithms, OOPs, DBMS, Operating Systems |
+| **Languages** | Python, Java, SQL, C++ |
+| **Frameworks** | Django, Flask, Node.js |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Developer Tools** | Git, GitHub, Docker, Postman |
+| **Core Concepts** | REST APIs, Data Structures & Algorithms, DB Optimization |
 
 ---
 
+## 🛠️ Featured Engineering Projects
+
+### 1 .[PathWise AI 2.0 ](https://github.com/your-username/project-1)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+* Built REST APIs for user authentication and authorization.
+* Optimized database queries to improve performance by **30%**.
+
+
+
+
+### 2. [smart weather app ](https://github.com/your-username/project-2)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+* Implemented core algorithmic solutions for complex graph and tree structure problems.
+
+---
 ### 📊 Engineering Metrics & Activity
 
+<!-- Interactive Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinchana9632&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sinchana9632&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
+<!-- Side-by-Side Main Stats & Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchana9632&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sinchana9632&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sinchana9632&theme=dark&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </p>
 
+<!-- Commit Streak Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinchana9632&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinchana9632&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sinchana9632&icon=0&color=0" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sinchana9632&color=0077B5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
